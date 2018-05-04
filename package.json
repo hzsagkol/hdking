@@ -1,0 +1,17 @@
+{
+  "name": "hdking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Hz.Sagkol",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.1",
+    "moment-duration-format": "^2.2.2"
+  }
+}
